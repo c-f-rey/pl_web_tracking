@@ -13,6 +13,11 @@ This dataset is being curated to investigate data tracking on public library web
 
 ## Naming Convention
 
+Filenames follow the convention:
+
+` {state postal code}_pl_websites.csv `
+
+where `{state postal code}` denotes the state postal code contained in the parameters of the dataset. This will allow for more state directories to be added to this depository as the project progresses.
 
 ## Data Dictionary
 
@@ -32,8 +37,8 @@ Metadata Schema: [Project Open Data](https://resources.data.gov/resources/dcat-u
 | title | Directory of California Public Library Websites and Descriptive Statistics |
 | description | This dataset is being curated to investigate data tracking on public library websites in the state of California. We will be combining datasets from the California Public Library Directory and the 2019 Public Library Survey from the IMLS to provide contextual information on the service population, website usage, and scale of the library systems being studied. |
 | keyword | California , public library , library , website , data , data tracking , data privacy |
-| issued | 02/27/2023
-|modified|02/27/2023|
+| issued | 02/27/2023|
+|modified|03/02/2023|
 |publisher|Connor Franklin Rey , <br> Carly Stewart|
 |contactPoint|Connor Franklin Rey , crey@uw.edu <br> Carly Stewart , cestew@uw.edu |
 |accessLevel | public|
