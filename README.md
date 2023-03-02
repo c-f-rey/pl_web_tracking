@@ -16,7 +16,7 @@ This dataset is being curated to investigate data tracking on public library web
 ## Data Dictionary
 
 | Variable | Variable Type | Allowed Values | Description |
-| --- | --- || --- | --- |
+| ------ | ------ || ------ | ----- |
 |library_system| string | x| Name of public library system|
 |web_address| |string | | Web address of public library system|
 |popu_lsa_2019||integer| | Population of the Legal Service Area of library system |
