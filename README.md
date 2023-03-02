@@ -1,18 +1,27 @@
 # Directory of California Public Library Websites and their Descriptive Statistics 2019
 ## Table of Contents
 
-   1. Naming Convention
+   1. [Naming Convention](## Naming Convention)
    2. General information
    3. Data Dictionary
-   4. [Metadata](##Metadata)
-   5. Security
+   4. [Metadata](## Metadata)
    6. Contact
 
 ## Naming Convention
 
 ## General Information
 
+This dataset is being curated to investigate data tracking on public library websites in the state of California. We will be combining datasets from the California Public Library Directory and the 2019 Public Library Survey from the IMLS to provide contextual information on the service population, website usage, and scale of the library systems being studied. This dataset will be made in preparation for an upstream curation project in Data Curation II, in which the data will be run through the Markup’s Blacklight Real-Time Web Privacy Inspector. We will prepare and document fields for later curation.
+
 ## Data Dictionary
+
+| Variable | Variable Type | Allowed Values | Description |
+| --- | --- || --- | --- |
+|library_system| string | | |
+|web_address| |string | | |
+|popu_lsa_2019||integer| | |
+|locale_mod|integer| | |
+|cen_tract|integer| | |
 
 ## Metadata
 Metadata Schema: Project Open Data 
