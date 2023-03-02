@@ -1,11 +1,11 @@
 # Directory of California Public Library Websites and their Descriptive Statistics 2019
 ## Table of Contents
 
-   1. [Naming Convention](#naming-convention)
-   2. [General information](#general-information)
+   1. [General information](#general-information)
+   2. [Naming Convention](#naming-convention)
    3. [Data Dictionary](#data-dictionary)
    4. [Metadata](#metadata)
-   6. [Contact](#contact)
+   5. [Contact](#contact)
 
 ## Naming Convention
 
