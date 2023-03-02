@@ -9,15 +9,12 @@
    6. Contact
 
 ## Metadata
-Metadata Using Project Open Data Schema 
-Attribute
-Value
-title
-Directory of California Public Library Websites and Descriptive Statistics
-description
-This dataset is being curated to investigate data tracking on public library websites in the state of California. We will be combining datasets from the California Public Library Directory and the 2019 Public Library Survey from the IMLS to provide contextual information on the service population, website usage, and scale of the library systems being studied.
-keyword
-California, public library, library, website, data, data tracking, data privacy
+Metadata Using Project Open Data Schema
+| Attribute | Value |
+| --- | --- |
+| title | Directory of California Public Library Websites and Descriptive Statistics |
+| description | This dataset is being curated to investigate data tracking on public library websites in the state of California. We will be combining datasets from the California Public Library Directory and the 2019 Public Library Survey from the IMLS to provide contextual information on the service population, website usage, and scale of the library systems being studied. |
+| keyword | California, public library, library, website, data, data tracking, data privacy |
 modified
 02/27/2023
 publisher
