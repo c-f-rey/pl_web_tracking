@@ -7,11 +7,12 @@
    4. [Metadata](#metadata)
    5. [Contact](#contact)
 
-## Naming Convention
-
 ## General Information
 
 This dataset is being curated to investigate data tracking on public library websites in the state of California. We have combined datasets from the [California Public Library Directory](http://ca.countingopinions.com/pireports) and the [2019 Public Library Survey](https://www.imls.gov/research-evaluation/data-collection/public-libraries-survey) from the IMLS to provide contextual information on the service population, website usage, and scale of the library systems being studied. This dataset will be made in preparation for an upstream curation project in Data Curation II, in which the data will be run through the Markup’s [Blacklight Real-Time Web Privacy Inspector](https://github.com/the-markup/investigation-blacklight-the-high-cost-of-free). We will prepare and document fields for later curation.
+
+## Naming Convention
+
 
 ## Data Dictionary
 
@@ -24,6 +25,7 @@ This dataset is being curated to investigate data tracking on public library web
 |cen_tract|integer| integers formatted 0000.YY (YY=blank or numeric) |Census Tract code. 7 character - A small, relatively permanent statistical subdivision of a county or statistically equivalent entity delineated by local participants as part of the Census Bureau’s Participant Statistical Areas Program. This field consists of four integers and two decimals, with an explicit decimal point.|
 
 ## Metadata
+
 Metadata Schema: Project Open Data 
 | Attribute | Value |
 | --- | --- |
