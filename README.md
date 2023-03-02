@@ -11,7 +11,7 @@
 
 ## General Information
 
-This dataset is being curated to investigate data tracking on public library websites in the state of California. We will be combining datasets from the California Public Library Directory and the 2019 Public Library Survey from the IMLS to provide contextual information on the service population, website usage, and scale of the library systems being studied. This dataset will be made in preparation for an upstream curation project in Data Curation II, in which the data will be run through the Markup’s Blacklight Real-Time Web Privacy Inspector. We will prepare and document fields for later curation.
+This dataset is being curated to investigate data tracking on public library websites in the state of California. We have combined datasets from the (California Public Library Directory)[http://ca.countingopinions.com/pireports] and the (2019 Public Library Survey)[https://www.imls.gov/research-evaluation/data-collection/public-libraries-survey] from the IMLS to provide contextual information on the service population, website usage, and scale of the library systems being studied. This dataset will be made in preparation for an upstream curation project in Data Curation II, in which the data will be run through the Markup’s Blacklight Real-Time Web Privacy Inspector. We will prepare and document fields for later curation.
 
 ## Data Dictionary
 
@@ -49,4 +49,3 @@ Metadata Schema: Project Open Data
 
 Connor Franklin Rey  crey@uw.edu
 Carly Stewart  cestew@uw.edu
-
