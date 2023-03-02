@@ -25,6 +25,7 @@ where `{state postal code}` denotes the state postal code contained in the param
 
 | Variable | Variable Type | Allowed Values | Description |
 | ------ | ------ | ------ | ----- |
+|state|string|two letter string state postal code|State postal code|
 |library_system| string | capitalized string | Name of public library system|
 |web_address|string | active web address | Web address of public library system|
 |popu_lsa_2019|integer| integers greater than zero | Population of the Legal Service Area of library system |
