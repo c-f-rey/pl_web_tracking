@@ -17,7 +17,7 @@ This dataset is being curated to investigate data tracking on public library web
 
 | Variable | Variable Type | Allowed Values | Description |
 | --- | --- || --- | --- |
-|library_system| string | | |
+|library_system| string | x| x|
 |web_address| |string | | |
 |popu_lsa_2019||integer| | |
 |locale_mod|integer| | |
