@@ -29,13 +29,12 @@ Metadata Schema: Project Open Data
 |license|https://opendatacommons.org/licenses/pddl/|
 |spatial| California|
 |temporal|2019|
-|describedBy|*LINK*|
+|describedBy|https://github.com/c-f-rey/pl_web_tracking/blob/main/README.md|
 |language|English|
 |references |https://www.imls.gov/research-evaluation/data-collection/public-libraries-survey ,<br> http://ca.countingopinions.com/pireports/report.php?ff5a767bd8ab7a953f295552669a26a5&live |
 |theme| Public Library Data Privacy |
-|accessURL | url|
-|downloadURL| url|
-|format|.csv file|
+|accessURL |https://github.com/c-f-rey/pl_web_tracking|
+|format|CSV|
 
 
 
