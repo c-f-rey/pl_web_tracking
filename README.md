@@ -1,11 +1,11 @@
 # Directory of California Public Library Websites and their Descriptive Statistics 2019
 ## Table of Contents
 
-   1. [Naming Convention](##Naming Convention)
-   2. General information
-   3. Data Dictionary
-   4. [Metadata](##Metadata)
-   6. Contact
+   1. [Naming Convention](#naming-convention)
+   2. [General information](#general-information)
+   3. [Data Dictionary](#data-dictionary)
+   4. [Metadata](#metadata)
+   6. [Contact](#contact)
 
 ## Naming Convention
 
@@ -45,5 +45,8 @@ Metadata Schema: Project Open Data
 |accessURL |https://github.com/c-f-rey/pl_web_tracking|
 |format|CSV|
 
+## Contact
 
+Connor Franklin Rey  crey@uw.edu
+Carly Stewart  cestew@uw.edu
 
