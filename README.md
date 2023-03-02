@@ -17,10 +17,10 @@ This dataset is being curated to investigate data tracking on public library web
 
 | Variable | Variable Type | Allowed Values | Description |
 | --- | --- || --- | --- |
-|library_system| string | x| x|
-|web_address| |string | | |
-|popu_lsa_2019||integer| | |
-|locale_mod|integer| | |
+|library_system| string | x| Name of public library system|
+|web_address| |string | | Web address of public library system|
+|popu_lsa_2019||integer| | Population of the Legal Service Area of library system |
+|locale_mod|integer| 11, 12, 13, 21, 22, 23, 31, 32, 33, 41, 42, 43| Urban-centric locale code. The geographic location in terms of the size of the community in which it is located and the proximity of that community to urban and metropolitan areas. Assigned based on the modal locale code of associated stationary outlets (i.e., central and branch libraries). <br> 11–City, Large: Territory inside an urbanized area and inside a principal city with population of 250,000 or more. <br> 12–City, Mid-size: Territory inside an urbanized area and inside a principal city with a population less than 250,000 and greater than or equal to 100,000.<br> 13–City, Small: Territory inside an urbanized area and inside a principal city with a population less than 100,000.<br> 21–Suburb, Large: Territory outside a principal city and inside an urbanized area with population of 250,000 or more.<br> 22–Suburb, Mid-size: Territory outside a principal city and inside an urbanized area with a population less than 250,000 and greater than or equal to 100,000. <br> 23–Suburb, Small: Territory outside a principal city and inside an urbanized area with a population less than 100,000.<br> 31–Town, Fringe: Territory inside an urban cluster that is less than or equal to 10 miles from an urbanized area. <br> 32–Town, Distant: Territory inside an urban cluster that is more than 10 miles and less than or equal to 35 miles from an urbanized area.<br> 33–Town, Remote: Territory inside an urban cluster that is more than 35 miles from an urbanized area.<br> 41–Rural, Fringe: Census-defined rural territory that is less than or equal to 5 miles from an urbanized area, as well as rural territory that is less than or equal to 2.5 miles from an urban cluster.<br> 42–Rural, Distant: Census-defined rural territory that is more than 5 miles but less than or equal to 25 miles from an urbanized area, as well as rural territory that is more than 2.5 miles but less than or equal to 10 miles from an urban cluster.<br> 43–Rural, Remote: Census-defined rural territory that is more than 25 miles from an urbanized area and is also more than 10 miles from an urban cluster.|
 |cen_tract|integer| | |
 
 ## Metadata
