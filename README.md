@@ -11,7 +11,7 @@
 
 This dataset is being curated to investigate data tracking on public library websites in the state of California. We have combined datasets from the [California Public Library Directory](http://ca.countingopinions.com/pireports) and the [2019 Public Library Survey](https://www.imls.gov/research-evaluation/data-collection/public-libraries-survey) from the IMLS to provide contextual information on the service population, website usage, and scale of the library systems being studied. This dataset will be made in preparation for an upstream curation project in Data Curation II, in which the data will be run through the Markup’s [Blacklight Real-Time Web Privacy Inspector](https://github.com/the-markup/investigation-blacklight-the-high-cost-of-free). We will prepare and document fields for later curation.
 
-In order to provide conext and transparency, the original data files and the R script used to process and standardize the datasets have been included in this repository in the [original_data folder](https://github.com/c-f-rey/pl_web_tracking/tree/main/original_data)
+In order to provide conext and transparency, the original data files and the R script used to process and standardize the datasets have been included in this repository in the ['original_data' folder](https://github.com/c-f-rey/pl_web_tracking/tree/main/original_data)
 
 ## Naming Convention
 
