@@ -17,7 +17,7 @@ Metadata Using Project Open Data Schema
 | keyword | California, public library, library, website, data, data tracking, data privacy |
 |modified|02/27/2023|
 |publisher|University of Washington|
-|contactPoint|Connor Franklin Rey, crey@uw.edu, Carly Stewart , cestew@uw.edu |
+|contactPoint|Connor Franklin Rey, crey@uw.edu <br> Carly Stewart , cestew@uw.edu |
 |accessLevel | public|
 |license|https://opendatacommons.org/licenses/pddl/|
 |spatial| California|
