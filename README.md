@@ -19,7 +19,7 @@ Metadata Using Project Open Data Schema
 |publisher|University of Washington|
 |contactPoint|Connor Franklin Rey, crey@uw.edu, Carly Stewart , cestew@uw.edu |
 |accessLevel | public|
-|license|PDDL|
+|license|https://opendatacommons.org/licenses/pddl/|
 |spatial| California|
 |temporal|2019|
 |describedBy|*LINK*|
