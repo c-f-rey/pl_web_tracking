@@ -26,7 +26,7 @@ This dataset is being curated to investigate data tracking on public library web
 
 ## Metadata
 
-Metadata Schema: Project Open Data 
+Metadata Schema: [Project Open Data](https://resources.data.gov/resources/dcat-us) 
 | Attribute | Value |
 | --- | --- |
 | title | Directory of California Public Library Websites and Descriptive Statistics |
@@ -49,5 +49,5 @@ Metadata Schema: Project Open Data
 
 ## Contact
 
-Connor Franklin Rey  crey@uw.edu
+Connor Franklin Rey  crey@uw.edu <br>
 Carly Stewart  cestew@uw.edu
